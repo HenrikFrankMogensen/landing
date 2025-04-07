@@ -1,0 +1,10 @@
+.hand {
+  position: absolute;
+  top: 160px;
+  left: 0px;
+  display: none;
+}
+.text-field {
+  /* height: 45px; */
+ margin-bottom: 45px;
+}
